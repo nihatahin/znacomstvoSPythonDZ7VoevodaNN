@@ -1,0 +1,7 @@
+1. You can export data to the files of .md and .txt formats.
+2. File name must consist of letters, digits or symbols "-" and "_".
+3. Symbol "." should be used only before file extension.
+4. Symbol "/" should be use only for path construction.
+5. If you want to add some data to file that doesn't exist:
+    5.1. .txt file will be create.
+    5.2. program will show error for .md file.

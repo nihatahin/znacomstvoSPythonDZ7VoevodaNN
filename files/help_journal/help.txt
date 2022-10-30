@@ -1,0 +1,10 @@
+Basic commands
+_____________________________________________
+|   name    ||  action                      |
+_____________________________________________
+|   /show   ||  show whole list of records  |
+|   /add    ||  add record                  |
+|   /expo   ||  add existed records to file |
+|   /impo   ||  add records from file       |
+|   /exit   ||  finish program              |
+_____________________________________________

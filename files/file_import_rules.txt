@@ -1,0 +1,5 @@
+1. You can import data from the files of .md and .txt formats.
+2. File name must consist of letters, digits or symbols "-" and "_".
+3. Symbol "." should be used only before file extension.
+4. Symbol "/" should be use only for path construction.
+5. It is cabable to see intire file format in /files/file_examples for both type extensions.
